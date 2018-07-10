@@ -1,0 +1,14 @@
+`define USE_ICACHE
+`define USE_DCACHE
+
+//`define SUPERSCALAR
+
+//`define OUT_OF_ORDER
+
+`define HAS_FORWARDING
+
+`define INCLUDE_IF_CONTENT
+
+`define HAS_WRITEBACK
+
+`define INCLUDE_MEM_CONTENT
